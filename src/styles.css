@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+    text-align: left;
+}
+
+body {
+    background: linear-gradient( #1cb5e0, #000046);
+    color: #fff;
+}
