@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
+![angular_coingecko_api](https://user-images.githubusercontent.com/93414316/145335231-d0850dd9-4fea-4c18-acdc-b771a9ad6e12.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
